@@ -1,10 +1,10 @@
 ---
-title: MySQL面试题
+title: MySQL学习
 published: 2024-11-03
-description: 'MySQL八股学习'
+description: 'MySQL学习'
 image: './MySQL-Image.png'
-tags: ["八股","MySQL"]
-category: '八股'
+tags: ["MySQL"]
+category: '笔记'
 draft: false 
 lang: 'zh_CN'
 ---
